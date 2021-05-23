@@ -54,7 +54,7 @@ VUE_APP_MAPBOX_ACCESS_TOKEN="<Your Mapbox Access Token>"
 
 ## 2. Choose a guide to follow
 
-- [Running the back-end only](./Run back-end only/README.md)
-- [Running both the front-end and the back-end](./Run both/README.md)
-- [Running the front-end only](./Run front-end only/README.md)
+- [Running the back-end only](backend-only/README.md)
+- [Running both the front-end and the back-end](full/README.md)
+- [Running the front-end only](frontend-only/README.md)
 

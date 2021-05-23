@@ -1,6 +1,6 @@
 # Running the back-end with Docker
 
-These instructions use Docker. If you are interested in running the back-end **without** Docker, [follow this guide instead](./Without-Docker.md).
+These instructions use Docker. If you are interested in running the back-end **without** Docker, [follow this guide instead](without-docker.md).
 
 ## Instructions
 

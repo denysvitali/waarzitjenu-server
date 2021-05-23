@@ -4,11 +4,11 @@ To run the back-end and the front-end simultaneously, you could either use Docke
 
 Your options for running both the back-end and front-end comes down to this:
 
-- [Run both as one single package with docker-compose.](./With-Docker-Compose.md)
+- [Run both as one single package with docker-compose.](without-docker.md)
 
-- [Run both separately with Docker.](./With-Docker.md)
+- [Run both separately with Docker.](with-docker.md)
 
 - Run both separately without Docker.
 
-  - [Instructions for the back-end.](../Run back-end only/Without-Docker.md)
-- [Instructions for the front-end.](../Run front-end only/Without-Docker.md)
+  - [Instructions for the back-end.](../backend-only/without-docker.md)
+- [Instructions for the front-end.](../frontend-only/without-docker.md)

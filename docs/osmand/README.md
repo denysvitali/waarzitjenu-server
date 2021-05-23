@@ -36,4 +36,4 @@ It is possible to enable an on-screen widget that shows up in the upper right co
 
 ![10](./setup-osmand-10.png)
 
-Alright, you're all set up! :thumbsup:
+Alright, you're all set up! 👍

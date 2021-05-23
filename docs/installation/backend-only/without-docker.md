@@ -1,6 +1,6 @@
 # Running the back-end without Docker
 
-These instructions use a local installation of Go. If you are interested in running the back-end **with** Docker, [follow this guide instead](./With-Docker.md).
+These instructions use a local installation of Go. If you are interested in running the back-end **with** Docker, [follow this guide instead](with-docker.md).
 
 Assuming you've installed a working installation of Go, have set all required environmental variables and have set your personal preferences... Here's how to get started:
 

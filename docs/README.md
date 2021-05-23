@@ -42,8 +42,8 @@ The license this project uses is the EUPL v1.2 or later. Please refer to the [LI
 
 [waarzitjenu/server]: https://github.com/waarzitjenu/server
 [waarzitjenu/map]: https://github.com/waarzitjenu/map
-[OsmAnd Setup Instructions]: ./OsmAnd/README.md	"OsmAnd Setup Instructions"
-[API Documentation]: ./API/README.md
+[OsmAnd Setup Instructions]: osmand/README.md	"OsmAnd Setup Instructions"
+[API Documentation]: api/README.md
 [contribution guidelines]: ./CONTRIBUTING/README.md
 [kan-ban board]: https://github.com/orgs/waarzitjenu/projects/1
 [Project LICENSE]: ./LICENSE.txt
